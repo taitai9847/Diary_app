@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+h1{
+  color: orange;
+  text-align: center;
+  font-size: 80px;
+  background-color: pink;
+  background-size: cover;
+  padding: 50px;
+}
+
+th{
+  color: orange;
+  font-size: 30px;
+  padding: 10px;
+}
